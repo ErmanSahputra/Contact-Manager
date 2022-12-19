@@ -1,0 +1,92 @@
+{
+  "contacts": [
+    {
+      "id": "1",
+      "name": "Erman",
+      "photo": "https://www.pngitem.com/pimgs/m/22-220721_circled-user-male-type-user-colorful-icon-png.png",
+      "mobile": "081201020304",
+      "email": "erman@gmail.com",
+      "title": "software engineer",
+      "company": "Shoppe techno",
+      "group": "1",
+      "groupId": "4"
+    },
+    {
+      "id": "2",
+      "name": "Erman Sahputra",
+      "photo": "https://cdn-icons-png.flaticon.com/512/147/147131.png",
+      "mobile": "081201020506",
+      "email": "ErmanSahputra@gmail.com",
+      "title": "Engineer",
+      "company": "Bukalapak techno",
+      "group": "2",
+      "groupId": "2"
+    },
+    {
+      "id": "3",
+      "name": "Tina",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB5_fgFujqsKyYMTe3r5dk7S9OkdoDq9lTgQ&usqp=CAU",
+      "mobile": "081201020708",
+      "email": "Tina@gmail.com",
+      "title": "Back End engineer",
+      "company": "Traveloka techno",
+      "group": "3"
+    },
+    {
+      "id": "4",
+      "name": "Martina",
+      "photo": "https://cdn.pixabay.com/photo/2021/01/04/10/41/icon-5887126_960_720.png",
+      "mobile": "081201020901",
+      "email": "Martina@gmail.com",
+      "title": "Frond End engineer",
+      "company": "Tokped techno",
+      "group": "4"
+    },
+    {
+      "id": "6",
+      "name": "Olin",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6h3O-7VlFrE8Om3Wl072rKhG4IJfY792YNyOoAT2wYpXoVRhHnJbIwpP9p80zIZGznHY&usqp=CAU",
+      "mobile": "081201020203",
+      "email": "Olin@gmail.com",
+      "title": "QA engineer",
+      "company": "Gojek techno",
+      "groupId": "5"
+    },
+    {
+      "id": "7",
+      "name": "Martina Aurora",
+      "photo": "https://cdn-icons-png.flaticon.com/512/219/219969.png",
+      "mobile": "081290909090",
+      "email": "aurora@gmail.com",
+      "company": "BUMN bit",
+      "title": "Technical writter",
+      "groupId": "3"
+    }
+  ],
+  "groups": [
+    {
+      "id": "1",
+      "name": "Colleague"
+    },
+    {
+      "id": "2",
+      "name": "Friend"
+    },
+    {
+      "id": "3",
+      "name": "Family"
+    },
+    {
+      "id": "4",
+      "name": "Service"
+    },
+    {
+      "id": "5",
+      "name": "Community"
+    },
+    {
+      "id": "6",
+      "name": "Social"
+    }
+  ]
+}
