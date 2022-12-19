@@ -6,7 +6,7 @@
   buka terminal baru tanpa menutup terminal backend
   
     #frontEnd:
-      - NPM install![Screenshot (252)](https://user-images.githubusercontent.com/22932040/208451352-6a5423ef-ef6e-4089-ae9c-9f2ffd80379c.png)
+      - NPM install
 
       - NPM start
       browser akan muncul localhost 3000
@@ -33,4 +33,5 @@
 ![Screenshot (255)](https://user-images.githubusercontent.com/22932040/208451646-e76e2a91-28e2-4614-8d27-2b395f5ab1e6.png)
 # tampilan mencari contact
 ![Screenshot (256)](https://user-images.githubusercontent.com/22932040/208451736-65a9c650-8b2d-445f-a512-27fc3382072a.png)
+
 
