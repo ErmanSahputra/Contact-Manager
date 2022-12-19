@@ -13,6 +13,8 @@
 
 # tech stack yang digunakan
   - React Js
+  - React Roter Dom
+  - Axios
   - Bootstrap
   - JSON Server
   
