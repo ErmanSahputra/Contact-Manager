@@ -1,5 +1,5 @@
 # Aplikasi Contact Manager (CRUD)
-  # untuk menjalankan Aplikasi:
+  # untuk menjalankan aplikasi:
     #backEnd:
       - NPM start
       browser akan muncul localhost 9000
@@ -15,7 +15,7 @@
   - Bootstrap
   - JSON Server
   
-# fitur yang terdapat pada Aplikasi Contact Manager
+# fitur yang terdapat pada aplikasi contact manager
   - melihat seluruh contact
   - menambah contact 
   - edit contact
